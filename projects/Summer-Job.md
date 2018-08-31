@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/Leadership.png
 title: Summer Job
-permalink: projects/cotton
+permalink: projects/Summer-Job
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-25
 labels:
@@ -13,7 +13,7 @@ labels:
 summary: A lot of lessons to be learned from a simple summer job. 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/Leadership.png">
 
 Last summer I took a job at a local footlocker because a hobby of mine is collecting shoes. It was my first real job that I had and at first I didn’t know how difficult it would be to go around and help people get what they want all day. I had to be able to manage my time well enough so that I wouldn’t find myself wasting time doing something else. When someone needed help, it was my duty to be urgent enough to get to them and get them what they needed. 
 
@@ -21,5 +21,5 @@ Throughout the experience, I found myself being able to manage the people around
 
 It was an opportunity that taught me great things that are useful for everyday life, especially in the work area. What I learned that was very important was that even as intelligent as you can possibly be, it won't get you as far in life if you aren't able to communicate with other people and create with them.
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://www.thebalancecareers.com/top-leadership-skills-2063782"><i class="large github icon "></i>Leadership photo</a>
 
