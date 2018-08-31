@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-images: 
+image: images/Arcade.jpg
 title: Arcade Shooter
 permalink: projects/Arcade-Shooter
 # All dates must be YYYY-MM-DD format!
