@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: Arcade Shooter
-permalink: projects/micromouse
+permalink: projects/Arcade-Shooter
 # All dates must be YYYY-MM-DD format!
 date: 2016-12-14
 labels:
@@ -20,19 +20,6 @@ summary: Final project for ICS 111.
 
   For this project, I was the lead programmer in a group of two people and was responsible for getting the images, developing the movement of the characters and crosshair, adding the visual effects and sound effects to occur on click, and the start and losing screen. I was also the leader of developing the ideas and integrating what we felt needed to be added in. Also had to plan out what should be completed by certain due dates since we had limited time to complete the project. 
   
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
 
 
