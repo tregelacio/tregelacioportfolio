@@ -19,7 +19,7 @@ summary: A recursively solving sudoku solver that I created in ICS 211.
 
    This project has given me a stronger understanding of recursion, which was one of the most difficult topics in the course. Trying to understand how to structure the recursive method was one of the challenges that I had that I overcame.
    
-
+Code: The code below is a method that has to adhere to the rules of sudoku and checks if the numbers don't repeat in each row, column and 4x4 square.
    
 ```j
   public static boolean checkSudoku(int[][] sudoku, boolean printErrors) {
