@@ -2,60 +2,24 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Summer Job
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-05-25
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - People-Person
+  - Life Experience
+  - Leadership
+summary: A lot of lessons to be learned from a simple summer job. 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Last summer I took a job at a local footlocker because a hobby of mine is collecting shoes. It was my first real job that I had and at first I didn’t know how difficult it would be to go around and help people get what they want all day. I had to be able to manage my time well enough so that I wouldn’t find myself wasting time doing something else. When someone needed help, it was my duty to be urgent enough to get to them and get them what they needed. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+Throughout the experience, I found myself being able to manage the people around me to oversee what I need to get without making them wait too long. I also found myself being more engaged and become more of a people person than I used to be. Working there has helped me learn to be respectful when dealing with people. Even though they come off as negative, I would always think to myself to stay positive and think how it isn't just about me.
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
+It was an opportunity that taught me great things that are useful for everyday life, especially in the work area. What I learned that was very important was that even as intelligent as you can possibly be, it won't get you as far in life if you aren't able to communicate with other people and create with them.
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
