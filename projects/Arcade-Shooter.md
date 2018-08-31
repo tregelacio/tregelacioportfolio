@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+images: 
 title: Arcade Shooter
 permalink: projects/Arcade-Shooter
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +13,7 @@ labels:
 summary: Final project for ICS 111.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/ArcadeShooter.png">
+<img class="ui medium right floated rounded image" src="../images/ArcadeShooter.jpg">
 Our game was similar to this, except in first person.
 
   This simple arcade shooting game was a creation I made for a final project in ICS 111, which was my first programming class at the University of Hawaii. It’s a point and click that has a loading screen, moving targets, a health system, a crosshair, integrated sound and a point system. You have the ability to hit all the targets moving and win, or if you fail to do so, you get a losing screen, but have the option to try again. 
