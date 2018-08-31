@@ -13,7 +13,7 @@ labels:
 summary: A lot of lessons to be learned from a simple summer job. 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/Leadership.png">
+<img class="ui image" src="../images/Leadership.png">
 
 Last summer I took a job at a local footlocker because a hobby of mine is collecting shoes. It was my first real job that I had and at first I didn’t know how difficult it would be to go around and help people get what they want all day. I had to be able to manage my time well enough so that I wouldn’t find myself wasting time doing something else. When someone needed help, it was my duty to be urgent enough to get to them and get them what they needed. 
 
