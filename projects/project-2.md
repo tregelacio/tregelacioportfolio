@@ -18,5 +18,8 @@ summary: A recursively solving sudoku solver that I created in ICS 211.
    This was an assignment given in a class that taught Intermediate Java. From here we learned about certain techniques that weren’t shown in the previous Java class. From this assignment, it was important that the recursive method worked perfectly as well as efficiently because with the three test sudoku puzzles, we had to make sure the last puzzle took the longest with the recursive method. The tests were designed so that we are able to visually see how long the puzzles would take and how they differ from each other.
 
    This project has given me a stronger understanding of recursion, which was one of the most difficult topics in the course. Trying to understand how to structure the recursive method was one of the challenges that I had that I overcame.
+   
+***
+
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
