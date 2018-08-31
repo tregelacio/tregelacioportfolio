@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/SudokuPuzzle.png
 title: Sudoku Solver
 # All dates must be YYYY-MM-DD format!
 date: 2018-03-15
@@ -11,7 +11,7 @@ labels:
 summary: A recursively solving sudoku solver that I created in ICS 211.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/SudokuPuzzle.png">
 	
    A sudoku solver that takes in values from an incomplete sudoku puzzled solves it using recursion by inserting different values into the boxes until it is completely solved. If a single box up until a certain point doesn’t fit within the rules of sudoku then the program recursively goes back to that spot to test the next available number that is in the array. 
 
@@ -92,4 +92,4 @@ summary: A recursively solving sudoku solver that I created in ICS 211.
 ```
 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://www.pinterest.com/pin/354236326917806277/"><i class="large github icon"></i>Sudoku Puzzle</a>
