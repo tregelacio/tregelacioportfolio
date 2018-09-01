@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+image: progthink.png
 title: Is Javascript Even a Real Language?
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-31
