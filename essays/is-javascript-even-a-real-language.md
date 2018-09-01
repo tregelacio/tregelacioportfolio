@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img class="ui image" src="../images/progthink.png">
+<img class="ui image" src="../images/progthink.png" height="200" width="350">
  
   From the start of learning Javascript to being able to code a few lines for some practice problems, it became evident to me that it would be a difficult language to get the hang of because there are a few slight differences from Java that I have engrained into my brain. Getting used to it will take some practice and also a bit more studying to recognize the differences in code.
   
