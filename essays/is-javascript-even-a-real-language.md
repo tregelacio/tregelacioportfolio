@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img class="ui tiny right spaced image" src="../images/progthink.png">*The building blocks to success.*
+<img class="ui tiny right spaced image" src="../images/progthink.png">*       The building blocks to success.*
  
   From the start of learning Javascript to being able to code a few lines for some practice problems, it became evident to me that it would be a difficult language to get the hang of because there are a few slight differences from Java that I have engrained into my brain. Getting used to it will take some practice and also a bit more studying to recognize the differences in code.
   
