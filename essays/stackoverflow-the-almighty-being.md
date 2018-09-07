@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: StackOverflow The Almighty Being
+image: GoodQuestions.png
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
@@ -11,7 +12,7 @@ labels:
   - Open Source Community
 ---
 
-<img class="ui tiny right spaced image" src="" height="300" width="450">* *
+<img class="ui tiny right spaced image" src="../images/GoodQuestions.png" height="300" width="450">
 
 <H2>Smart Questions</H2>
 
