@@ -12,7 +12,7 @@ labels:
 
 <img class="ui tiny right spaced image" src="http://brijux.com/wp-content/uploads/2010/11/Bill_Gates_Philanthropy.png" height="300" width="550">
 
-<blockquote><h4>As we look ahead into the next century, leaders will be those who empower others.</h4>
+<blockquote><h3>As we look ahead into the next century, leaders will be those who empower others.</h3>
   
 <footer>-Bill Gates</footer></blockquote> 
 
