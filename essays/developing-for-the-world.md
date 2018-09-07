@@ -12,7 +12,8 @@ labels:
 
 <img class="ui tiny right spaced image" src="http://brijux.com/wp-content/uploads/2010/11/Bill_Gates_Philanthropy.png" height="300" width="550">
 
-<blockquote>As we look ahead into the next century, leaders will be those who empower others.
+<blockquote><h4>As we look ahead into the next century, leaders will be those who empower others.</h4>
+  
 <footer>-Bill Gates</footer></blockquote> 
 
   I’ve always had the dream of building a piece of technology that would be useful for everyone and hopefully it would have the power to save lives. Something that has more of an affect on people than just existing. I like to take my inspiration from tech legends who have done great things for our world and made history through their inventions such as Bill Gates with his intelligence to develop a widely used system or Elon Musk with his creativity furthering the advancement of humanity through revolutionary technology.
