@@ -12,7 +12,7 @@ labels:
   - Open Source Community
 ---
 
-<img class="ui tiny right spaced image" src="../images/GoodQuestions.png" height="300" width="450">
+<img class="ui tiny right spaced image" src="../images/GoodQuestions.png" height="600" width="750">
 
 <H2>Smart Questions</H2>
 
