@@ -45,5 +45,6 @@ Bad questions such as … don’t help the community in long run. It only helps 
 An example of a bad question on stackoverflow is 
 
 
-Sources: https://stackoverflow.com/questions/16721891/single-line-sftp-from-terminal
-https://stackoverflow.com/questions/30586785/sudoku-java-efficient-way-for-4x4-sudoku
+Sources: 
+<a href="https://stackoverflow.com/questions/16721891/single-line-sftp-from-terminal"><i class="large github icon"></i>SFTP StackOverflow page</a> 
+<a href="https://stackoverflow.com/questions/30586785/sudoku-java-efficient-way-for-4x4-sudoku"><i class="large github icon"></i>Sudoku StackOverflow page</a>
