@@ -12,7 +12,7 @@ labels:
   - Open Source Community
 ---
 
-<img class="ui tiny right spaced image" src="../images/GoodQuestions.png" height="600" width="750">
+<img class="ui tiny right spaced image" src="../images/GoodQuestions.png" height="650" width="850">
 
 <H2>Smart Questions</H2>
 
@@ -116,8 +116,8 @@ The insights i've gained by thoroughly going through the questions I found and m
 
 
 Sources: 
-<a href="https://stackoverflow.com/questions/16721891/single-line-sftp-from-terminal"><i class="large github icon"></i>SFTP StackOverflow page</a> 
-<a href="https://stackoverflow.com/questions/30586785/sudoku-java-efficient-way-for-4x4-sudoku"><i class="large github icon"></i>Sudoku StackOverflow page</a>
+<a href="https://stackoverflow.com/questions/16721891/single-line-sftp-from-terminal">SFTP StackOverflow page</a> 
+<a href="https://stackoverflow.com/questions/30586785/sudoku-java-efficient-way-for-4x4-sudoku">Sudoku StackOverflow page</a>
 
-Image: <a href="https://jvns.ca/blog/good-questions/"><i class="large github icon"></i>Questions</a>
+Image: <a href="https://jvns.ca/blog/good-questions/">Questions</a>
 
