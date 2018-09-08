@@ -10,7 +10,7 @@ labels:
   - Inspirations
 ---
 
-<img class="ui tiny right spaced image" src="http://brijux.com/wp-content/uploads/2010/11/Bill_Gates_Philanthropy.png" height="500" width="750"></img>
+<img class="ui tiny right spaced image" src="http://brijux.com/wp-content/uploads/2010/11/Bill_Gates_Philanthropy.png" height="500px" width="750px">
 
 <blockquote><h3>As we look ahead into the next century, leaders will be those who empower others.</h3>
   
