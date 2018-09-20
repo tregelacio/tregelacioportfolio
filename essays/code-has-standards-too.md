@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img src="../images/ESLint.jpg" height="466" width="796">
+<img src="../images/ESLint.jpg" height="233" width="398">
  
 <h2>Coding Standards as a Whole</h2>
 
