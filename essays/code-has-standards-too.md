@@ -11,7 +11,7 @@ labels:
   - Reflection
 ---
 
-<img class="ui tiny right spaced image" src="../images/ESLint.jpg" height="233" width="398">
+<img class="ui tiny right spaced image" src="../images/ESLint.jpg" height="466" width="796">
  
 <h2>Coding Standards as a Whole</h2>
 
