@@ -15,8 +15,6 @@ labels:
 <h2>Coding Standards as a Whole</h2>
 
 Coding standards, in my opinion, are very important to everyone within the programming field because it improves readability with the code and keeps everyone in check. That means that everyone would be on the same page when it comes to the way code is written. I also believe that it does help when learning a language to an extent because the form of how loops and functions are created would be the same everywhere. If people had different ways of writing a loop, then it would be problematic if there were people collaborating on a certain project because it would be troubling to make sense of it and keep track of how the code is supposed to work. 
-
-<img class="ui image" src="../images/HJC.png" height="200" width="350">
   
 <h2>Thoughts on ESLint</h2>
 
