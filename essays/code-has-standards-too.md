@@ -11,6 +11,7 @@ labels:
   - Reflection
 ---
 
+<img class="ui tiny right spaced image" src="../images/ESLint.jpg" height="233" width="398">
  
 <h2>Coding Standards as a Whole</h2>
 
