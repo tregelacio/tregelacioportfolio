@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 image: semantic-ui.png, kevin_malone.jpeg
-title: Is This Magic
+title: Do You Believe In Magic
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
 labels:
