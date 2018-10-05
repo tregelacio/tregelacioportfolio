@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-image: 
+image: semantic-ui.png, kevin_malone.jpeg
 title: Is This Magic
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
@@ -11,11 +11,14 @@ labels:
   - Webpage Development
 ---
 
-<img src="" height="233" width="398">
+<img src="../images/semantic-ui.png" height="720" width="1280">
  
 <h2>From Humble Beginnings</h2>
 
 Semantic UI at first glance looked like it could be a lot of fun to learn and scrolling through the simple keywords of the framework seemed like it would be a breeze to create very interesting pages. But, it was just the opposite. Going through each element of the framework felt like a giant tsunami wave of words and text, preventing me from fully understanding how each keyword affects the webpage. It was very overwhelming to try to understand how to morph the page into exactly what I want to create. But taking a step back and looking at all the tools the framework provides for me, it isn’t so much as I initially thought. Taking the time to learn the more important keywords such as a grid, container, etc would make life a lot easier because it allows you to form the sections that you want and make exactly what you want. Just like Kevin from The Office once said, “why waste time say lot work when few word do trick?” Once you know exactly how each word affects the format of the page, such as specifying how many columns or how large the columns are, then it would simplify your life when coding in html and css. Investing time to learn this framework may seem like a hassle at first, but once you understand how it works, you’ll forget the frustrations and start to appreciate it. Semantic UI is a great framework. It just takes a little bit of studying to be able to compose a solid webpage. 
+  
+
+<img src="../images/kevin_malone.jpeg" height="230" width="500">
   
 <h2>My Journey Into Semantic UI</h2>
 
