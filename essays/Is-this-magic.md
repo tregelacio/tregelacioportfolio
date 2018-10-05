@@ -11,7 +11,7 @@ labels:
   - Webpage Development
 ---
 
-<img src="../images/semantic-ui.png" height="400" width="700">
+<img src="../images/semantic-ui.png" height="230" width="420">
  
 <h2>From Humble Beginnings</h2>
 
