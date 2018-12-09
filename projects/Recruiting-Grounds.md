@@ -26,13 +26,14 @@ summary: Final project for ICS 314.
 
 <h2>The Execution</h2>
   In the beginning, it seemed very simple to implement all the features we wanted to since we had a template to somewhat track what we were doing with all the tools that we learned throughout the course. Everything we had at our disposal was pretty overwhelming, especially since we had to build most of the application from scratch with only having practiced and applied only a few things. But we made things work with what we had and were able to improvise. We were able to meet the expectations we set for ourselves by working diligently and within the group, we were on the same page for most of the project. 
-   The first thing we thought of doing was creating some mockup pages in HTML and CSS to show how we want each page to look like before we implement the database so that our application can use user inputted information rather than our own generated ones. Then we developed the schema we needed for both the company and the students so that the database could control them separately which would allow us to easily modify them in case we wanted to add or subtract what the user can showcase. This process seemed to go smoothly 
+   The first thing we thought of doing was creating some mockup pages in HTML and CSS to show how we want each page to look like before we implement the database so that our application can use user inputted information rather than our own generated ones. Then we developed the schema we needed for both the company and the students so that the database could control them separately which would allow us to easily modify them in case we wanted to add or subtract what the user can showcase. This process seemed to go smoothly until we reached a problem with the way we started to set the data up.
 
 <h2>Trust the Process</h2>
-  Throughout the project, we ran into a few problems that detered us from completing the goals that we've set for ourselves in the time that we needed to do it. 
+  Throughout the project, we ran into a few problems that detered us from completing the goals that we've set for ourselves in the time that we needed to do it. For instance, when implementing the database to connect to the pages, we had trouble with making the page work due to our naming convention since a lot of the 
 
 <h2>My Contributions</h2>
   I've 
 
 <h2>Finale</h2>
+  This entire project was a full learning experience which taught me valuable skills such as time management, communication, and understanding how a website with a database works. As a group, we were ecstatic to complete the project and satisfied with the finished product, but also felt bitter since there were
 
