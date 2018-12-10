@@ -31,6 +31,32 @@ summary: Final project for ICS 314.
 
 <h2>Trust the Process</h2>
   Throughout the project, we ran into a few problems that detered us from completing the goals that we've set for ourselves in the time that we needed to do it. For instance, when implementing the database to connect to the pages, we had trouble with making the page work due to our naming convention since connecting pages to the database had to be named so that we knew which part connected to which. We also had a problem of deciding what should be included in the schema so that it threw off our entire app since if the schemas don't align, the database wouldn't be filled with the right information. But even after a few struggles, we were able to figure out a way to compromise and get our application working the way we intended to.
+  
+```
+const StudentProfileSchema = new SimpleSchema({
+  image: String,
+  firstName: String,
+  lastName: String,
+  degree: String,
+  school: String,
+  owner: String,
+}, { tracker: Tracker });
+```
+<h3>Student Profile Schema</h3>
+<br/>
+
+```
+const CompanyProfileSchema = new SimpleSchema({
+  image: String,
+  name: String,
+  location: String,
+  description: String,
+  owner: String,
+}, { tracker: Tracker });
+```
+<h3>Company Profile Schema</h3>
+<br/>
+To compromise, we decided to just keep the schema simple so that we don't have mismatching databases and with onty 5 or 6 different fields in the schema, it kept things easier to keep track of.
 
 <h2>My Contributions</h2>
   We divided the work into parts so that we could be more efficient with the amount of things that we can accomplish. I was given the task of creating the Student's Profile Page, Company Profile Page and the Editing Pages for both parts. This also includes creating the schemas so that the profiles can read data, creating the Javascript files so that they can control the information on the server side, creating the react components based on the profile pages, and the pages themselves so that the design can be modified.
