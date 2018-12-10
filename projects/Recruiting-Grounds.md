@@ -35,20 +35,27 @@ summary: Final project for ICS 314.
 <h2>My Contributions</h2>
   We divided the work into parts so that we could be more efficient with the amount of things that we can accomplish. I was given the task of creating the Student's Profile Page, Company Profile Page and the Editing Pages for both parts. This also includes creating the schemas so that the profiles can read data, creating the Javascript files so that they can control the information on the server side, creating the react components based on the profile pages, and the pages themselves so that the design can be modified.
   
+<br/>
+
 <img class="ui medium left floated image" src="../images/StudentProf.jpeg">
 Created the Student Profile Page
 <br/>
-
+<br/>
+<br/>
 <img class="ui medium left floated image" src="../images/StudentEdit.jpeg">
 Created the Student Edit Page
 <br/>
-
+<br/>
+<br/>
 <img class="ui medium left floated image" src="../images/CompanyProf.jpeg">
 Created the Company Profile Page
 <br/>
-
+<br/>
+<br/>
 <img class="ui medium left floated image" src="../images/CompanyEdit.jpeg">
 Created the Company Edit Page
+<br/>
+<br/>
 <br/>
 
 <h2>Finale</h2>
