@@ -31,7 +31,7 @@ Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
 <br/>
 Organization Page: <a href="https://github.com/twt-connections">https://github.com/twt-connections</a>
 <br/>
-<a href="https://twt-connections.github.io">Back to top</a>
+<a href="https://tregelacio.github.io/projects/Recruiting-Grounds">Back to top</a>
 
 Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a>
 <br />
@@ -88,12 +88,12 @@ To compromise, we decided to just keep the schema simple so that we don't have m
   
 <br/>
 
-<img class="ui medium left floated image" src="../images/StudentProf.jpeg">
+<img class="ui floated image" src="../images/StudentProf.jpeg">
 <h3>Created the Student Profile Page</h3>
 <br/>
 <br/>
 <br/>
-<img class="ui medium left floated image" src="../images/StudentEdit.jpeg">
+<img class="ui floated image" src="../images/StudentEdit.jpeg">
 <h3>Created the Student Edit Page</h3>
 
 
@@ -116,12 +116,12 @@ To compromise, we decided to just keep the schema simple so that we don't have m
 For the edit pages, we used something simple like a form so that it was apparent to the user that they were on the edit page.
 <br/>
 <br/>
-<img class="ui medium left floated image" src="../images/CompanyProf.jpeg">
+<img class="ui floated image" src="../images/CompanyProf.jpeg">
 <h3>Created the Company Profile Page</h3>
 <br/>
 <br/>
 <br/>
-<img class="ui medium left floated image" src="../images/CompanyEdit.jpeg">
+<img class="ui floated image" src="../images/CompanyEdit.jpeg">
 <h3>Created the Company Edit Page</h3>
 <br/>
 <br/>
