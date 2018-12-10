@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/StudentEdit.jpeg, images/StudentProf.jpeg, images/CompanyEdit.jpeg, images/CompanyEdit.jpeg, images/Intro.jpeg
 title: Recruiting Grounds
 permalink: projects/Recruiting-Grounds
 # All dates must be YYYY-MM-DD format!
@@ -16,7 +16,7 @@ labels:
 summary: Final project for ICS 314.
 ---
 
-<img class="ui medium right floated rounded image" src="">
+<img class="ui medium left floated image" src="../images/Intro.jpeg">
 
 <h2>Getting Started</h2>
   For this group project, we had to use the knowledge we gained in ICS 314 which was mostly about Javascript, HTML, CSS, MongoDB and React to create a fully functional application that had the concept similar to LinkedIn, but for UH Manoa Students. We didn't spend a whole lot of time exploring the languages and the databases, but we learned enough to be able to create something that looks like it would be used in modern life. Our group formed with the intention to create something that would actually be very viable for all students and companies that would use our app. Our app would function in a way for students to be able to connect to other companies and vice versa.
