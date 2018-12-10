@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/StudentEdit.jpeg, images/StudentProf.jpeg, images/CompanyEdit.jpeg, images/CompanyEdit.jpeg, images/Intro.jpeg
+image: images/Intro.jpeg
 title: Recruiting Grounds
 permalink: projects/Recruiting-Grounds
 # All dates must be YYYY-MM-DD format!
@@ -15,8 +15,6 @@ labels:
   - Databases
 summary: Final project for ICS 314.
 ---
-
-<img class="ui medium left floated image" src="../images/Intro.jpeg">
 
 <ul>
   <li><a href="#contact">Contact</a></li>
@@ -40,6 +38,7 @@ Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recr
   For this group project, we had to use the knowledge we gained in ICS 314 which was mostly about Javascript, HTML, CSS, MongoDB and React to create a fully functional application that had the concept similar to LinkedIn, but for UH Manoa Students. We didn't spend a whole lot of time exploring the languages and the databases, but we learned enough to be able to create something that looks like it would be used in modern life. Our group formed with the intention to create something that would actually be very viable for all students and companies that would use our app. Our app would function in a way for students to be able to connect to other companies and vice versa.
   <a href="https://tregelacio.github.io/projects/Recruiting-Grounds">Back to top</a>
 <br/>
+<img class="ui floated image" src="../images/Intro.jpeg">
 
 <h2 id="think">Thinking Out Loud</h2>
   While we started to plan things out, we had huge ideas for what we wanted to create. We thought it would be easy for us to have the user be able to browse through multiple profiles made by other students as well as profiles created by companies that are searching for people to hire. We also wanted people to be able to manage their contacts and have the ability to connect with others through a private messaging system as well as having a public blog space for others to voice their input on each user. Such that a company could comment on a person's internship or their time at the job for other companies to view before making a decision. The problem with our though process was that we were thinking too big, without going over the tiny details that would change to make our application come to life. We also only had about a month to plan and code while having other classes to focus on in the meantime. But we did the best we could've done by implementing the things we thought were more important to the overall experience of the application.
