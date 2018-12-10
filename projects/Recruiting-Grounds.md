@@ -31,8 +31,7 @@ summary: Final project for ICS 314.
 
 <h2>Trust the Process</h2>
   Throughout the project, we ran into a few problems that detered us from completing the goals that we've set for ourselves in the time that we needed to do it. For instance, when implementing the database to connect to the pages, we had trouble with making the page work due to our naming convention since connecting pages to the database had to be named so that we knew which part connected to which. We also had a problem of deciding what should be included in the schema so that it threw off our entire app since if the schemas don't align, the database wouldn't be filled with the right information. But even after a few struggles, we were able to figure out a way to compromise and get our application working the way we intended to.
-  
-<br/>
+ 
 
 ``` const StudentProfileSchema = new SimpleSchema({
   image: String,
@@ -45,6 +44,8 @@ summary: Final project for ICS 314.
 ```
 <h3>Student Profile Schema</h3>
 
+
+
 ``` const CompanyProfileSchema = new SimpleSchema({
   image: String,
   name: String,
@@ -53,6 +54,8 @@ summary: Final project for ICS 314.
   owner: String,
 }, { tracker: Tracker });
 ```
+
+
 <h3>Company Profile Schema</h3>
 <br/>
 To compromise, we decided to just keep the schema simple so that we don't have mismatching databases and with onty 5 or 6 different fields in the schema, it kept things easier to keep track of.
@@ -69,7 +72,8 @@ To compromise, we decided to just keep the schema simple so that we don't have m
 <br/>
 <img class="ui medium left floated image" src="../images/StudentEdit.jpeg">
 <h3>Created the Student Edit Page</h3>
-<br/>
+
+
 ```<Header as="h2" textAlign="center">Edit Student Profile</Header>
  <AutoForm schema={StudentProfileSchema} onSubmit={this.submit} model={this.props.doc}>
    <Segment>
@@ -84,6 +88,7 @@ To compromise, we decided to just keep the schema simple so that we don't have m
     </Segment>
   </AutoForm>
 ```
+
 For the edit pages, we used something simple like a form so that it was apparent to the user that they were on the edit page.
 <br/>
 <br/>
