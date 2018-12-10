@@ -11,7 +11,7 @@ labels:
   - Analysis
 ---
 
-<img src="../images/design.png" height="230" width="420">
+<img src="../images/design.png">
  
 <h2>The Greatest Thing Since Sliced Bread (for programmers anyways)</h2>
   Imagine a world where for every program you had to code, you were forced to start from scratch every single time. A world where repetitive code never existed and essentially you had to create from the ground up. That world would be an actual nightmare and would be almost as awful as coding using punch cards like people used to do long ago. Thankfully we don’t live in a world like that and we have a thing called design patterns. This glorious topic has given us the ability to save our time to focus on what actually makes our applications different rather than do the tedious task of re-doing the work that either we or another person has done that is similar to the application in progress. We can take a look at how another programmer has designed their code and use it in a way that makes your own code more readable and It is like the first person that made sliced bread. Life before that moment must've been miserable because in order to make a sandwhich, you'd have to do it yourself. Now, you won't even believe how life could have ever existed without this invention. This is like design patterns. Without it, we wouldn't be able to be as creative and thoughtful and accelerated as we are today.
