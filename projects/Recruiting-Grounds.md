@@ -31,8 +31,6 @@ Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
 <br/>
 Organization Page: <a href="https://github.com/twt-connections">https://github.com/twt-connections</a>
 <br/>
-<a href="https://tregelacio.github.io/projects/Recruiting-Grounds">Back to top</a>
-
 Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recruitinggrounds.meteorapp.com</a>
 <br />
 
