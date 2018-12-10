@@ -24,9 +24,9 @@ Semantic UI at first glance looked like it could be a lot of fun to learn and sc
 
 During the beginning phase of my quest to learn Semantic UI, I feel like I heavily struggled trying to even create the simplest of webpages because I couldn't grasp how to create the invisible box of grids and position them where I want them to be. So far, I’ve taken the time to look through each element and test how they modify the page which gives me an overall idea of when would be the best time to use that certain element. Little by little, I would chip away at the more commonly used keywords and tried to get a better understanding so that hopefully I could be able to recall the perfect keywords for the job. There are more things that you can do that allows you to be more creative in a build. Currently, it feels as though there is still a lot to learn and get used to because there is a slight learning curve compared to basic html and css. 
 
-<h2>Flamework</h2>
+<h2>Framework</h2>
 
-While you could argue that you could just use raw html and css to build a page, I feel like using an already built framework to add a little flair to the webpage is much better than just using the tools that the basics provide. Also, for the people reading the code, Semantic UI uses phrases that are closer to human speech rather than html code which can be a little tough to decipher especially with more complicated webpages. With the framework, however, the names of what you call each element is easily understandable. I really appreciate how its so seamless, such that the way the keywords can be concatenated together so that you can be more specific in what you want. 
+While you could argue that you could just use raw html and css to build a page, I feel like using an already built framework to add a little flair to the webpage is much better than just using the tools that the basics provide. Also, for the people reading the code, Semantic UI uses phrases that are closer to human language rather than html code which can be a little tough to decipher especially with more complicated webpages. With the framework, however, the names of what you call each element is easily understandable. I really appreciate how its so seamless, such that the way the keywords can be concatenated together so that you can be more specific in what you want. 
 
 <h2>Final Thoughts</h2>
 
