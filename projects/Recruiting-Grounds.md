@@ -73,19 +73,19 @@ To compromise, we decided to just keep the schema simple so that we don't have m
 <h3>Created the Student Edit Page</h3>
 <br/>
 ```
-            <Header as="h2" textAlign="center">Edit Student Profile</Header>
-            <AutoForm schema={StudentProfileSchema} onSubmit={this.submit} model={this.props.doc}>
-              <Segment>
-                <TextField name='image'/>
-                <TextField name='firstName'/>
-                <TextField name='lastName'/>
-                <TextField name='degree'/>
-                <TextField name='school'/>
-                <SubmitField value='Submit'/>
-                <ErrorsField/>
-                <HiddenField name='owner' />
-              </Segment>
-            </AutoForm>
+<Header as="h2" textAlign="center">Edit Student Profile</Header>
+ <AutoForm schema={StudentProfileSchema} onSubmit={this.submit} model={this.props.doc}>
+   <Segment>
+     <TextField name='image'/>
+     <TextField name='firstName'/>
+     <TextField name='lastName'/>
+     <TextField name='degree'/>
+     <TextField name='school'/>
+     <SubmitField value='Submit'/>
+     <ErrorsField/>
+     <HiddenField name='owner' />
+    </Segment>
+  </AutoForm>
 ```
 For the edit pages, we used something simple like a form so that it was apparent to the user that they were on the edit page.
 <br/>
