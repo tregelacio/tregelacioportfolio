@@ -34,7 +34,7 @@ summary: Final project for ICS 314.
   
 <br/>
 
-```const StudentProfileSchema = new SimpleSchema({
+``` const StudentProfileSchema = new SimpleSchema({
   image: String,
   firstName: String,
   lastName: String,
@@ -45,7 +45,7 @@ summary: Final project for ICS 314.
 ```
 <h3>Student Profile Schema</h3>
 
-```const CompanyProfileSchema = new SimpleSchema({
+``` const CompanyProfileSchema = new SimpleSchema({
   image: String,
   name: String,
   location: String,
