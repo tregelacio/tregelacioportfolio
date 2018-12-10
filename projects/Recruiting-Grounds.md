@@ -38,22 +38,22 @@ summary: Final project for ICS 314.
 <br/>
 
 <img class="ui medium left floated image" src="../images/StudentProf.jpeg">
-Created the Student Profile Page
+<h3>Created the Student Profile Page</h3>
 <br/>
 <br/>
 <br/>
 <img class="ui medium left floated image" src="../images/StudentEdit.jpeg">
-Created the Student Edit Page
+<h3>Created the Student Edit Page</h3>
 <br/>
 <br/>
 <br/>
 <img class="ui medium left floated image" src="../images/CompanyProf.jpeg">
-Created the Company Profile Page
+<h3>Created the Company Profile Page</h3>
 <br/>
 <br/>
 <br/>
 <img class="ui medium left floated image" src="../images/CompanyEdit.jpeg">
-Created the Company Edit Page
+<h3>Created the Company Edit Page</h3>
 <br/>
 <br/>
 <br/>
