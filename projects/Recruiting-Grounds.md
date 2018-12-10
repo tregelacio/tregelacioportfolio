@@ -33,8 +33,7 @@ summary: Final project for ICS 314.
   Throughout the project, we ran into a few problems that detered us from completing the goals that we've set for ourselves in the time that we needed to do it. For instance, when implementing the database to connect to the pages, we had trouble with making the page work due to our naming convention since connecting pages to the database had to be named so that we knew which part connected to which. We also had a problem of deciding what should be included in the schema so that it threw off our entire app since if the schemas don't align, the database wouldn't be filled with the right information. But even after a few struggles, we were able to figure out a way to compromise and get our application working the way we intended to.
   
 <br/>
-```
-const StudentProfileSchema = new SimpleSchema({
+```const StudentProfileSchema = new SimpleSchema({
   image: String,
   firstName: String,
   lastName: String,
@@ -46,8 +45,7 @@ const StudentProfileSchema = new SimpleSchema({
 <h3>Student Profile Schema</h3>
 <br/>
 
-```
-const CompanyProfileSchema = new SimpleSchema({
+```const CompanyProfileSchema = new SimpleSchema({
   image: String,
   name: String,
   location: String,
@@ -72,8 +70,7 @@ To compromise, we decided to just keep the schema simple so that we don't have m
 <img class="ui medium left floated image" src="../images/StudentEdit.jpeg">
 <h3>Created the Student Edit Page</h3>
 <br/>
-```
-<Header as="h2" textAlign="center">Edit Student Profile</Header>
+```<Header as="h2" textAlign="center">Edit Student Profile</Header>
  <AutoForm schema={StudentProfileSchema} onSubmit={this.submit} model={this.props.doc}>
    <Segment>
      <TextField name='image'/>
