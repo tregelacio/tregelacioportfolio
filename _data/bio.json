@@ -64,7 +64,8 @@
         "React",
         "MongoDB",
         "Semantic UI",
-        "Meteor"
+        "Meteor",
+        "SQL"
       ]
     },
     {
@@ -81,7 +82,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science (expected December 2020)",
       "studyType": "B.S.",
       "startDate": "2016-08-23",
       "endDate": "Present",
