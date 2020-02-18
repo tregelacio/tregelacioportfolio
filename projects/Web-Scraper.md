@@ -40,19 +40,19 @@ I used a couple python libraries that specialize in collecting information from 
 <br/>
 
 <h2 id="why">Reasons for Creating Project</h2>
-I thought this project would be a fun way to get into scripting as looking and collecting sneakers is one of my hobbies and coding works well with the culture because a lot of purchases for rare and collectable shoes are mostly online. This site works as the middleman for people to buy and sell.
+I thought this project would be a fun way to get into scripting as looking and collecting sneakers is one of my hobbies and coding works well with the culture because a lot of purchases for rare and collectable shoes are mostly online. This site works as the middleman for people to buy and sell. It was really fun to create as I would discover a new way to play around with the internals of the site and make an automated system to keep track of a piece of html that could change at any time. 
 <br/>
   <a href="https://tregelacio.github.io/projects/webscraper">Back to top</a>
 <br/>
 
 <h2 id="real">Real World Applications</h2>
-
+Having something automatically keep track of changes could be used in many ways such as an actual stock exchange site where you can keep track of the increases and decreases of a certain stock which you could use as data to buy and sell and automatically generate profit for you. Although this would require some sort of machine learning to know when to buy and when to sell to optimally create the largest amount of profit. This could also be applied to keeping track of when a website changes such as when a rare and valuable item is about to release, you'll be one of the first to purchase it as this application can monitor sites. With python being as versatile as it is, it can be manipulated to capture data from all points of the internet.
 <br/>
   <a href="https://tregelacio.github.io/projects/webscraper">Back to top</a>
 <br/>
 
 <h2 id="future">Future Improvements</h2>
-
+I plan on improving the amount of websites it can check on, making the UI more friendly, creating way to make the user choose a website without having to change the code and enhance the feedback of the program as it doesn't really provide much information other opening up a browser. There are a lot of changes that I could make, but this was meant to be a fun learning project that piqued my interest.
 <br/>
   <a href="https://tregelacio.github.io/projects/webscraper">Back to top</a>
 <br/>
