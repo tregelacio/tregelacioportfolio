@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Intro.jpeg
+image: images/webscraperresult.png
 title: Webscraper using Python
 permalink: projects/webscraper
 # All dates must be YYYY-MM-DD format!
