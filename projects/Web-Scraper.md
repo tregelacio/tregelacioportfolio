@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Intro.jpeg
 title: Webscraper using Python
-permalink: projects/Recruiting-Grounds
+permalink: projects/webscraper
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-26
 labels:
