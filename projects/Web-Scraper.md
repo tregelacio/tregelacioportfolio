@@ -30,8 +30,8 @@ Current Deployment: <a href="http://recruitinggrounds.meteorapp.com">http://recr
 
 <h2 id="why">Reasons for Creating Project</h2>
   For this group project, we had to use the knowledge we gained in ICS 314 which was mostly about Javascript, HTML, CSS, MongoDB and React to create a fully functional application that had the concept similar to LinkedIn, but for UH Manoa Students. We didn't spend a whole lot of time exploring the languages and the databases, but we learned enough to be able to create something that looks like it would be used in modern life. Our group formed with the intention to create something that would actually be very viable for all students and companies that would use our app. Our app would function in a way for students to be able to connect to other companies and vice versa.
-  <br/>
-  <a href="https://tregelacio.github.io/projects/Recruiting-Grounds">Back to top</a>
+<br/>
+  <a href="https://tregelacio.github.io/projects/Web-Scraper">Back to top</a>
 <br/>
 <img class="ui floated image" src="../images/Intro.jpeg">
 
