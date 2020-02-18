@@ -14,13 +14,16 @@ summary: Personal project using Python.
 ---
 
 <ul>
+  <li><a href="#use">How To Use</a></li>
   <li><a href="#how">How It's Made</a></li>
   <li><a href="#why">Reasons for Creating Project</a></li>
   <li><a href="#real">Real World Applications</a></li>
   <li><a href="#future">Future Improvements</a></li>
 </ul>
 
-<h2 id="how">How It's Made</h3>
+<h2 id="use">How To Use</h2>
+
+<h2 id="how">How It's Made</h2>
 Team Members: Willard Peralta, Tre Gelacio, Ty Gwartney
 <br/>
 Organization Page: <a href="https://github.com/twt-connections">https://github.com/twt-connections</a>
