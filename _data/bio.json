@@ -6,7 +6,7 @@
     "email": "tgelacio@hawaii.edu",
     "phone": "",
     "website": "https://tregelacio.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Expected to graduate in Fall, 2020.",
+    "summary": "Graduated with B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
     "location": {
       "address": "",
       "postalCode": "96706",
@@ -82,11 +82,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected December 2020)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2016-08-23",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2020-12-18",
+      "gpa": "3.20",
       "courses": [
       ]
     }
