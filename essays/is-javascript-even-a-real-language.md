@@ -15,8 +15,8 @@ labels:
  
 <h2>The Difficulties of Javascript</h2>
   From the start of learning Javascript to being able to code a few lines for some practice problems, it became evident to me that it would be a difficult language to get the hang of because there are a few slight differences from Java that I have engrained into my brain. Getting used to it will take some practice and also a bit more studying to recognize the differences in code.
-  
-  Javascript is honestly a very confusing language at times. There are some similarities to Java, such as the way you could structure some loops and things, but there are also a ton of differences which could make it a bit challenging to remember everything that makes it special. But I suppose that's the beauty of this language. With it being a little difficult, it is much more powerful because it is more of a scripting language that has to be run through a browser and can't make standalone apps. Whereas Java needs to be compiled and can make standalone apps. 
+<br/>
+  Javascript is honestly a very confusing language at times. It has a lot of different syntactical things with the way it reads the code. There are also some similarities to Java, such as the way you could structure some loops and things, but there are also a ton of differences which could make it a bit challenging to remember everything that makes it special. But I suppose that's the beauty of this language. With it being a little difficult, it is much more powerful because it is more of a scripting language that has to be run through a browser and can't make standalone apps. Whereas Java needs to be compiled and can make standalone apps. 
   
 <img class="ui image" src="../images/HJC.png" height="200" width="350">
   

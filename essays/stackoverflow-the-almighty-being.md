@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: StackOverflow The Almighty Being
-image: GoodQuestions.png
+image: GoodQuestions.jpeg
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
@@ -12,12 +12,12 @@ labels:
   - Open Source Community
 ---
 
-<img class="ui tiny right spaced image" src="../images/GoodQuestions.png" height="700" width="950">
+<img class="ui floated image" src="../images/GoodQuestions.jpeg">
 
 <H2>Smart Questions</H2>
 
-Smart questions are important for smart software engineers because as a developer, it is nearly impossible for anyone to remember how to fix any problem they have with the vast amount of information available. There will be people who specialize in certain aspects therefore, they have an easier time solving a problem. So using an open source community such as StackOverflow is good because it can help you with your problems. The only thing is that it has to be a question that makes the asker think how to solve it rather than straight up give the answer. That not only hurts yourself, but also hurts others who have the same question. It doesn’t benefit anyone in the long term. If the question is worded in a way where it forces the answer-giver to provide good insight to the question with another question, then it’ll be beneficial for everyone.
-  
+Smart questions are important for smart software engineers because as a developer, it is nearly impossible for anyone to remember how to fix any problem they have with the vast amount of information available. There will be people who specialize in certain aspects therefore, they have an easier time solving a problem. So using an open source community such as StackOverflow is good because it can help you with your problems. The only thing is that it has to be a question that makes the asker think how to solve it rather than straight up give the answer. That not only hurts yourself, but also hurts others who have the same question therefore it really doesn’t benefit anyone in the long term. If the question is worded in a way where it forces the answer-giver to provide good insight to the question with another question, then it’ll be beneficial for everyone.
+<br/>
 An example of a smart question on stackoverflow is this one asking about simplifying a command in the terminal to do an action in a single line rather than using multiple lines to do the same thing. The code is 
 
 ```

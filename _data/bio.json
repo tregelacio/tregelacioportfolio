@@ -6,7 +6,7 @@
     "email": "tgelacio@hawaii.edu",
     "phone": "",
     "website": "https://tregelacio.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Expected to graduate in Spring, 2020.",
+    "summary": "Graduate with a B.S. in Computer Science from the ICS department at the University of Hawaii.",
     "location": {
       "address": "",
       "postalCode": "96706",
@@ -33,6 +33,11 @@
       "keywords": [
       ]
     },
+        {
+      "name": "App Development",
+      "keywords": [
+      ]
+    },
     {
       "name": "Gaming",
       "keywords": [
@@ -40,6 +45,16 @@
     },
     {
       "name": "Automation",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Web Design",
+      "keywords": [
+      ]
+    },
+        {
+      "name": "Cybersecurity",
       "keywords": [
       ]
     }
@@ -55,7 +70,12 @@
         "Javascript",
         "HTML",
         "CSS",
-        "Python"
+        "Python",
+        "React",
+        "MongoDB",
+        "Semantic UI",
+        "Meteor",
+        "SQL"
       ]
     },
     {
@@ -72,11 +92,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2016-08-23",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2020-12-18",
+      "gpa": "3.20",
       "courses": [
       ]
     }
@@ -84,7 +104,7 @@
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2016-Present",
+      "date": "2016-2020",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     }
